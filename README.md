@@ -20,6 +20,8 @@ https://allods.gipat.ru/index.php?p=eimodz
 https://allods.gipat.ru/index.php?p=eimodzworkwithmodcreator
 </a>
 
+https://github.com/chemmalion/EIDBEditor
+
 ## Видео
 
 - YouTube:  
